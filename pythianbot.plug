@@ -1,0 +1,9 @@
+[Python]
+Version=3
+
+[Core]
+Name = PythianBot
+Module = pythianbot
+
+[Documentation]
+Description = Some misc tools for pythianites

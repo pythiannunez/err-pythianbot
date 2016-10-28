@@ -18,4 +18,4 @@ Current commands:
 * !pager assign <pager> <username> - Assign pager to user
 * !sonosqueue - shows tickets in sonos JIRA queue
 * !nordeaqueue - shows tickets in nordea JIRA queue
-* !shrug - ¯\\b_(ツ)_/¯
+* !shrug - ¯\\_(ツ)_/¯

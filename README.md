@@ -4,6 +4,7 @@ PythianBot
 This PythianBot provides some tools for Pythian chatroom, making common daily tasks available via slack chat.
 
 Requirements:
+errbot
 pyquery
 and some other TBD
 
@@ -15,4 +16,6 @@ Current commands:
 * !pacing [ underpaced || overpaced ] - Show all underpaced or overpaced clients.
 * !pager who - Show who has the pager
 * !pager assign <pager> <username> - Assign pager to user
-
+* !sonosqueue - shows tickets in sonos JIRA queue
+* !nordeaqueue - shows tickets in nordea JIRA queue
+* !shrug - ¯\_(ツ)_/¯
